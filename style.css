@@ -260,6 +260,11 @@ a {
     color: #fff;
 }
 
+.footer-info {
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+}
+
 /* Scroll to top */
 .scroll-up {
     position: fixed;
